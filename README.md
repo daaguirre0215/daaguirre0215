@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div class="header" align="center">
-    <img src="https://giphy.com/gifs/works-always-development-gG6OcTSRWaSis" width="200">
+    <img src="https://giphy.com/embed/gG6OcTSRWaSis" width="200">
 </div>
 
 
