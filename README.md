@@ -16,8 +16,8 @@
             alt="" />
     </a>
     
---
-### About me 🧑🧑🏽‍💻
+---
+## About me 🧑🧑🏽‍💻
 
 - 💼 I am currently developing my portfolio
 
