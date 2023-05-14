@@ -18,7 +18,7 @@
  
 </div>
 
----
+--
 ## 🧑🏽‍💻 About Me :
 
 - 💼 I am currently developing my portfolio 
