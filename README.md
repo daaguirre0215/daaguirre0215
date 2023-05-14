@@ -15,11 +15,11 @@
         <img src="https://img.shields.io/twitter/url?color=aqua&label=Aaron%20Aguirre&logo=facebook&logoColor=aqua&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Faaronel92.aguirre%2F"
             alt="" />
     </a>
-    
+ 
+</div>
+
 ---
 ## 🧑🏽‍💻 About Me :
 
-- 💼 I am currently developing my portfolio **
-
-</div>
+- 💼 I am currently developing my portfolio 
 
