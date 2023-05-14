@@ -21,5 +21,9 @@
 ------
 ## 🧑🏽‍💻 About Me :
 
-- 💼 I am currently developing my portfolio 
+-💼 I am currently developing my portfolio 
+-💼 I am currently developing my portfolio 
+-💼 I am currently developing my portfolio 
+-💼 I am currently developing my portfolio 
+-💼 I am currently developing my portfolio 
 
