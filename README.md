@@ -17,7 +17,7 @@
     </a>
     
 ---
-## About me 🧑🧑🏽‍💻
+## 🧑🏽‍💻 About Me :
 
 - 💼 I am currently developing my portfolio
 
