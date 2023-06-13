@@ -20,6 +20,7 @@
 ## 🧑🏽‍💻 SOBRE MI:
 
 - 📧 Llegar a mi daaguirre0215@gmail.com
+- 🧑🏽‍💻 Estudiante de la carrera ingenieria en desarrollo de software
 - ✅ Actualmente estoy aprendiendo a usar Docker
 
 <div align="left">
@@ -33,6 +34,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="AZURE" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="FLASK" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40">
+    
     
 </div>
 </div>
