@@ -19,6 +19,6 @@
 --- 
 ## 🧑🏽‍💻 SOBRE MI:
 
-- 📧 Llegar a mi [daaguirre0215@gmail.com]
+- 📧 Llegar a mi daaguirre0215@gmail.com
 - 
 - 
