@@ -1,5 +1,5 @@
 <div class="header" align="center">
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" height="500">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="200">
     <h2></h2>
     <h3> ¡Hola! Soy Aarón Aguirre, un apasionado estudiante de ingeniería en desarrollo de software. Me encanta la
         tecnología y el desarrollo web. He trabajado en proyectos personales con Python, Django, Git y MySQL, entre
