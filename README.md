@@ -20,7 +20,7 @@
 ## 🧑🏽‍💻 SOBRE MI:
 
 - 📧 Llegar a mi daaguirre0215@gmail.com
-- 
+- ✅ Actualmente estoy aprendiendo a usar Docker
 
 <div align="left">
 <h3> 🛠️Lenguajes y herramientas</h3>
@@ -35,4 +35,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="40" height="40">
     
 </div>
+</div>
+<div>
+    [![GitHub
+Streak](https://github-readme-streak-stats.herokuapp.com?user=daaguirre0215&theme=transparent&border_radius=1.1&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
