@@ -17,6 +17,8 @@
 </div>
 
 --- 
-## 🧑🏽‍💻 About Me :
+## 🧑🏽‍💻 SOBRE MI:
 
-- 💼 I am currently developing my portfolio 
+- 📧 Llegar a mi [daaguirre0215@gmail.com]
+- 
+- 
