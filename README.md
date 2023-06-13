@@ -1,5 +1,5 @@
 <div class="header" align="center">
-    <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif"
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
         width="200">
     <h2></h2>
     <h3> ¡Hola! Soy Aarón Aguirre, un apasionado estudiante de ingeniería en desarrollo de software. Me encanta la tecnología y el desarrollo web. He trabajado en proyectos personales con Python, Django, Git y MySQL, y estoy constantemente buscando nuevas oportunidades para aprender y mejorar mis habilidades. Este repositorio refleja mi viaje como desarrollador, donde compartiré proyectos, ejemplos y todo lo relacionado con mi aprendizaje. ¡Únete a mí en este emocionante viaje tecnológico!</h3>
