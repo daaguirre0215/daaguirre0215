@@ -38,7 +38,7 @@
 </div>
 <div>
 ---
-### 📊 Mis estado
+<h3> 📊 Mi estado </h3>
 
 [![GitHub
 Streak](https://github-readme-streak-stats.herokuapp.com?user=daaguirre0215&theme=transparent&border_radius=1.1&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
