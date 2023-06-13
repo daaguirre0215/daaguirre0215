@@ -36,6 +36,7 @@
     
 </div>
 </div>
+---
 ## 📊 Mis estado
 
 [![GitHub
