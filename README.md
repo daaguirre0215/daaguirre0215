@@ -21,6 +21,8 @@
 
 - 📧 Llegar a mi daaguirre0215@gmail.com
 - 🧑🏽‍💻 Estudiante de la carrera ingenieria en desarrollo de software
+- 📝 Disfruto mucho aprendiendo
+- ☕ Amo el café
 - ✅ Actualmente estoy aprendiendo a usar Docker
 
 <div align="left">
